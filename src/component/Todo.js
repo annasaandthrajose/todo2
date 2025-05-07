@@ -42,7 +42,7 @@ const Todo = () => {
             {/* <h1>Hello{this.props.myStringValues.myString}</h1>
             <h1>Hello{this.props.myStringValues.myStringOne}</h1> */}
             <h1>Counter value {value}</h1>
-            <Button onClick={increment}>Increment</Button>
+            <Button onClick={increment}>Increments</Button>
             <Button onClick={decrement}>decrement</Button>
             <h1>Colour is {colour}</h1>
             <Button onClick={changeColour}>changeColour</Button>
